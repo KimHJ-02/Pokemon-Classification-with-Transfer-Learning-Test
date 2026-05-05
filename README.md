@@ -140,7 +140,8 @@ streamlit run streamlit_app.py
   - `simplecnn`: `Pikachu` (2.84%)
 - 해석: 스타일화된 피규어 형태에서는 모델 간 예측이 갈렸고, 신뢰도도 상대적으로 낮았습니다.
 
-![GUI Demo Case A](./assets/gui_demo_case_a.png)
+![GUI Demo Case A]<img width="732" height="1197" alt="스크린샷 2026-05-05 210123" src="https://github.com/user-attachments/assets/ff5bddcd-718b-4b5e-8bb6-9b9b9956ee00" />
+
 
 ### Demo Case B (피카츄 이미지)
 
@@ -152,7 +153,8 @@ streamlit run streamlit_app.py
   - `simplecnn`: `Pikachu` (7.88%)
 - 해석: transfer learning 모델 3개는 높은 확률로 일치된 정답을 예측했습니다.
 
-![GUI Demo Case B](./assets/gui_demo_case_b.png)
+![GUI Demo Case B]<img width="743" height="1204" alt="스크린샷 2026-05-05 210003" src="https://github.com/user-attachments/assets/a3c7985f-401a-4676-87b7-907087ce13c2" />
+
 
 > 스크린샷 파일은 프로젝트 기준 `assets/gui_demo_case_a.png`, `assets/gui_demo_case_b.png` 경로에 두면 README에서 바로 표시됩니다.
 
