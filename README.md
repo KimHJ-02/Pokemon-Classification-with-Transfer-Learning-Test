@@ -1,4 +1,4 @@
-# Homework #6 - Pokemon Classification with Transfer Learning
+# Pokemon Classification with Transfer Learning
 
 주어진 포켓몬 이미지에서 포켓몬 이름(클래스)을 분류하는 프로젝트입니다.  
 Kaggle `7,000 Labeled Pokemon` 데이터를 사용해 4개 이상의 실험 설정으로 성능을 비교하고, Streamlit GUI로 업로드 이미지 예측 데모를 제공합니다.
